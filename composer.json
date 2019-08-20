@@ -1,0 +1,17 @@
+{
+    "name": "elderbraum/casa-products-factory",
+    "description": "A product factory for CasaDelVino et al",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Mitch Hijlkema",
+            "email": "mitch@doedejaarsma.nl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Elderbraum\\CasaProductFactory\\": "src/"
+        }
+    }
+}
